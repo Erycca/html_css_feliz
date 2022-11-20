@@ -1,7 +1,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(210, 196, 223);
+    background-color: #e8cfc1;
     border-bottom: 10px solid rgb(124, 106, 106);
     padding-left: 20px;
     padding-right: 20px;
@@ -18,7 +18,7 @@ nav{
 a{
     display: inline-flex;
     align-items: center;
-    color: rgb(61, 43, 78);
+    color: #523e27;;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 500;
@@ -38,7 +38,7 @@ a{
   
 #button {
     display: inline-block;
-    background-color:rgb(187, 136, 235) ;
+    background-color:#dd9d54 ;
     padding-top: 18px;
     padding-bottom: 18px;
     padding-left: 20px;
