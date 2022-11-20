@@ -7,6 +7,7 @@ header {
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
+    align-items: center;
 }
 
 nav{
@@ -45,7 +46,13 @@ a{
     padding-right: 20px;
     box-shadow: 5px 5px 0px;
     margin-right: 0;
+    transition: transform 100ms linear ;
 }
 
+#button:hover {
+   transform: scale(1.1);
+   
+
+}
 
 
