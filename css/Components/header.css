@@ -1,12 +1,14 @@
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: #e4ad8e;
-    border-bottom: 10px solid rgb(124, 106, 106);
+    background-color:#3B6064;
+    border-bottom: 10px Solid #C9E4CA;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    align-items: center;
+    align-items:center;
+
+  
 }
 

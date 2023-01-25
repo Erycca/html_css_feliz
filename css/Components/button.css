@@ -1,6 +1,6 @@
 .button {
     display: inline-block;
-    background-color:#dd9d54 ;
+    background-color:#55828B ;
     padding-top: 18px;
     padding-bottom: 18px;
     padding-left: 20px;
@@ -9,7 +9,7 @@
     margin-right: 0;
     transition: transform 100ms linear ;
     font-size: 20px;
-    color:#523e27 ;
+    color:#C9E4CA;
     text-decoration: none;
     
 }

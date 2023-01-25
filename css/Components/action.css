@@ -1,7 +1,7 @@
 .action {
     display: inline-flex;
     align-items: center;
-    color: #523e27;
+    color: #C9E4CA;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 500;
@@ -11,7 +11,7 @@
 
 .action::before {
         content: "";
-        background-color: burlywood;
+        background-color: #55828B;
         width: 10px;
         height: 10px;
         margin-right: 10px;
