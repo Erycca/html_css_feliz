@@ -2,13 +2,12 @@
     font-family:'Barlow';
     font-size: 40px;
     color:#87BBA2;
-   
-  
+ 
 }
 
-h2 {
-    font-family: 'Barlow';
-    font-size: 20px ;
-    color: #3B6064;
+.title -second {
+     color: #dde8e9;
+     text-shadow: none;
+     text-align: center;
     
 }
